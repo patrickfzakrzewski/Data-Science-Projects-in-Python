@@ -1,2 +1,2 @@
-# Jose Portilla's Data Science Projects
+# Data Science Algorithms in Python
 Various statistical analysis methods performed on real data sets Taken from Jose Portilla's in-depth machine learning bootcamp. Projects were broken down step-wise and solved by me, then verified with Portilla's solutions. These are my solutions and may slighlty differ from Jose Portilla's. Intended for use as a reference for project structure and using various statistical learning methods in Python.
