@@ -1,2 +1,2 @@
-# Jose Portilla's Data Science Exercises
-Various statistical analysis methods performed on real data sets Taken from Joser Portilla's in-depth machine learning bootcamp. All credit for code and problem solving belongs to them. Intended use as a reference for using various statistical learning methods in Python.
+# Jose Portilla's Data Science Projects
+Various statistical analysis methods performed on real data sets Taken from Jose Portilla's in-depth machine learning bootcamp. Projects were broken down step-wise and solved by me, then verified with Portilla's solutions. These are my solutions and may slighlty differ from Jose Portilla's. Intended for use as a reference for project structure and using various statistical learning methods in Python.
